@@ -13,3 +13,12 @@ The "Movie DVD" subcategory still holds a notable market share.
 📍 Geographical Focus:
 A world map reveals high customer density in North America, Europe, and emerging clusters in Asia and Australia, providing guidance for regional marketing strategies.
 This analysis showcases the power of turning raw data into actionable insights, supporting targeted campaigns, logistics optimization, and market expansion strategies.
+
+![image](https://github.com/user-attachments/assets/c5af5316-9d10-4a5a-9944-1a71e9c9a618)
+
+![image](https://github.com/user-attachments/assets/64b7ded4-2ebe-4cfe-8107-9291fd5ec0aa)
+
+![image](https://github.com/user-attachments/assets/0d2b74f9-5c44-4f98-8578-0571a3578a60)
+
+![image](https://github.com/user-attachments/assets/1cc7506c-1ece-4760-a3ea-086d70db0f26)
+
